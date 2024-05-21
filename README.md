@@ -79,7 +79,7 @@ Feel free to customize the file paths or configuration details as needed. This s
 
 ## Links
 
-- **GitHub Repository**: [https://github.com/yourusername/V5-Discord-Bot](https://github.com/ashhead/Multipurpose-Bot-V5.git)
+- **GitHub Repository**: [https://github.com/ashhead/Multipurpose-Bot-V5.git](https://github.com/ashhead/Multipurpose-Bot-V5.git)
 - **Codesandbox**: []
 - **Invite the Bot**: [Link to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=1071808240981127258)
 
