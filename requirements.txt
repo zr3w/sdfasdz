@@ -20,5 +20,4 @@ tasksio
 motor
 Augmentor
 numpy
-sqlite3
 aiosqlite
