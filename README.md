@@ -1,6 +1,6 @@
 # Multipurpose V5 Discord Bot
 
-![Made With ♥ By Team Encoders](https://imgur.com/6CejBZ9)
+![Made With ♥ By Team Encoders](https://images-ext-1.discordapp.net/external/0hS92G9lV4cS2eQz9Fgci136sXDpH42K-Uiz3xTzCq4/https/i.imgur.com/6CejBZ9.jpg?format=webp&width=814&height=458)
 
 ## What is Multipurpose V5?
 
@@ -79,7 +79,7 @@ Feel free to customize the file paths or configuration details as needed. This s
 
 ## Links
 
-- **GitHub Repository**: [https://github.com/yourusername/V5-Discord-Bot](https://github.com/yourusername/V5-Discord-Bot)
+- **GitHub Repository**: [https://github.com/yourusername/V5-Discord-Bot](https://github.com/ashhead/Multipurpose-Bot-V5.git)
 - **Codesandbox**: []
 - **Invite the Bot**: [Link to invite the bot to your server](https://discord.com/oauth2/authorize?client_id=1071808240981127258)
 
