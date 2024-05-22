@@ -5,6 +5,7 @@ import httpx
 from utils.Tools import *
 from core import Astroz, Cog
 import aiohttp
+from utils.config import TOKEN
 import time
 import asyncio
 import aiohttp
@@ -31,7 +32,7 @@ proxies={"http": 'http://' + next(proxs)}
 class member_update(commands.Cog):
     def __init__(self, client):
         self.client = client      
-        self.headers = {"Authorization": f"Bot OTA2MDg1NTc4OTA5NTQ4NTU0.GY8nds.JJ-k2ckUpGokqxdvbwlgJwmklthFvzqLR0qcwI"}
+        self.headers = {"Authorization": f"Bot {TOKEN}"}
 
 
     @commands.Cog.listener()
