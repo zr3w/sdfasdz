@@ -1,5 +1,5 @@
 import discord
-from utils.config import BotName
+from utils.config import BotName, OWNER_IDS
 from discord.ext import commands,tasks
 
 import os
@@ -136,7 +136,7 @@ class Premium(commands.Cog):
     @commands.is_owner()
     async def _premium(self, ctx):
         prefix=ctx.prefix
-        hacker = discord.utils.get(self.bot.users, id=875617517714964530)
+        hacker = discord.utils.get(self.bot.users, id=OWNER_IDS)
 
         listem = discord.Embed(title=f"Premium (9)", colour=self.color,
                                      description=f"""<...> Duty | [...] Optional\n\n
