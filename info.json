@@ -1,13 +1,13 @@
 {
     "OWNER_IDS": [
-        166692371981926400
+        1198750393161752626
     ],
     "TOKEN": "BOT-TOKEN-HERE",
-    "BotName": "Incite",
-    "serverLink": "https://discord.gg/encoders",
+    "BotName": "City Morgue",
+    "serverLink": "https://discord.gg/murderers",
     "wh_cl": "Webhook-for-command-logs",
     "wh_bl": "Webhook-for-guild-logs",
-    "statusText": ".help",
+    "statusText": "City Morgue | .help",
     "EXTENSIONS": [
         "cogs.events"
     ],
